@@ -95,18 +95,18 @@
           "text": "동기화"
         }
       ],
-      "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%EC%95%84%EB%A9%94%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF": [
+      "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%EC%95%A0%EB%A8%B8%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF": [
         {
-          "source": "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%EC%95%84%EB%A9%94%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF",
-          "target": "/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%9D%98-%ED%85%9C%ED%94%8C%EB%A6%BF-%EA%B8%B0%EB%8A%A5",
-          "text": "옵시디언의 템플릿 기능"
+          "source": "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%EC%95%A0%EB%A8%B8%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF",
+          "target": "/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EC%8A%A4%ED%84%B0%EB%94%94/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%9D%98-%ED%85%9C%ED%94%8C%EB%A6%BF-%EA%B8%B0%EB%8A%A5",
+          "text": "2. 기술적 발전을 위해/옵시디언 스터디/옵시디언의 템플릿 기능"
         }
       ],
       "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A7%8C%EB%93%A4%EA%B8%B04-Next.js": [
         {
           "source": "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A7%8C%EB%93%A4%EA%B8%B04-Next.js",
-          "target": "/%EC%95%84%EB%A9%94%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF",
-          "text": "아메시스트 템플릿"
+          "target": "/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%EC%95%A0%EB%A8%B8%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF",
+          "text": "2. 기술적 발전을 위해/BuildingTemplate/애머시스트 템플릿"
         }
       ]
     },
@@ -145,13 +145,6 @@
           "text": "동기화#^9b2ac2"
         }
       ],
-      "/%EC%95%84%EB%A9%94%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF": [
-        {
-          "source": "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A7%8C%EB%93%A4%EA%B8%B04-Next.js",
-          "target": "/%EC%95%84%EB%A9%94%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF",
-          "text": "아메시스트 템플릿"
-        }
-      ],
       "/%EC%96%BC%EA%B5%B4%EC%82%AC%EC%A7%84-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%B0%8D%EA%B8%B0": [
         {
           "source": "/my-little-forest/1.-%EB%8F%85%EC%84%9C%EC%99%80-%EC%83%9D%EA%B0%81%EB%93%A4/How-to-Learn-to-Code",
@@ -166,11 +159,18 @@
           "text": "없는 메모"
         }
       ],
-      "/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%9D%98-%ED%85%9C%ED%94%8C%EB%A6%BF-%EA%B8%B0%EB%8A%A5": [
+      "/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EC%8A%A4%ED%84%B0%EB%94%94/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%9D%98-%ED%85%9C%ED%94%8C%EB%A6%BF-%EA%B8%B0%EB%8A%A5": [
         {
-          "source": "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%EC%95%84%EB%A9%94%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF",
-          "target": "/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%9D%98-%ED%85%9C%ED%94%8C%EB%A6%BF-%EA%B8%B0%EB%8A%A5",
-          "text": "옵시디언의 템플릿 기능"
+          "source": "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%EC%95%A0%EB%A8%B8%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF",
+          "target": "/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EC%8A%A4%ED%84%B0%EB%94%94/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%9D%98-%ED%85%9C%ED%94%8C%EB%A6%BF-%EA%B8%B0%EB%8A%A5",
+          "text": "2. 기술적 발전을 위해/옵시디언 스터디/옵시디언의 템플릿 기능"
+        }
+      ],
+      "/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%EC%95%A0%EB%A8%B8%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF": [
+        {
+          "source": "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A7%8C%EB%93%A4%EA%B8%B04-Next.js",
+          "target": "/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%EC%95%A0%EB%A8%B8%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF",
+          "text": "2. 기술적 발전을 위해/BuildingTemplate/애머시스트 템플릿"
         }
       ],
       "/Git-%EB%AA%85%EB%A0%B9%EC%96%B4": [
@@ -236,14 +236,14 @@
       "text": "얼굴사진 제대로 찍기"
     },
     {
-      "source": "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%EC%95%84%EB%A9%94%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF",
-      "target": "/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%9D%98-%ED%85%9C%ED%94%8C%EB%A6%BF-%EA%B8%B0%EB%8A%A5",
-      "text": "옵시디언의 템플릿 기능"
+      "source": "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%EC%95%A0%EB%A8%B8%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF",
+      "target": "/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EC%8A%A4%ED%84%B0%EB%94%94/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%9D%98-%ED%85%9C%ED%94%8C%EB%A6%BF-%EA%B8%B0%EB%8A%A5",
+      "text": "2. 기술적 발전을 위해/옵시디언 스터디/옵시디언의 템플릿 기능"
     },
     {
       "source": "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A7%8C%EB%93%A4%EA%B8%B04-Next.js",
-      "target": "/%EC%95%84%EB%A9%94%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF",
-      "text": "아메시스트 템플릿"
+      "target": "/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/BuildingTemplate/%EC%95%A0%EB%A8%B8%EC%8B%9C%EC%8A%A4%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF",
+      "text": "2. 기술적 발전을 위해/BuildingTemplate/애머시스트 템플릿"
     },
     {
       "source": "/my-little-forest/2.-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%B0%9C%EC%A0%84%EC%9D%84-%EC%9C%84%ED%95%B4/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EC%8A%A4%ED%84%B0%EB%94%94/Obsidian-Tutorial",

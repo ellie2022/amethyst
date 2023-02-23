@@ -24,15 +24,16 @@ menu:
   #   - name: "Sample"
   #     url: "https://google.com"
   #     weight: 10
-  after:
-    - name: "Github"
-      url: "https://github.com/64bitpandas/amethyst"
-      weight: 10
+  # following 4lines are commented out by ellie on 2023-02-23
+  #after:
+  #  - name: "Github"
+  #    url: "https://github.com/64bitpandas/amethyst"
+  #    weight: 10
 
 params:
 
   name: Ben Cuan
-  title: 📓 Amethyst
+  title: 🍇 My Little Forest
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'
@@ -61,7 +62,7 @@ params:
   enableContextualBacklinks: true
 
   # whether to show a section of recent notes on the home page
-  enableRecentNotes: false
+  enableRecentNotes: true
 
   # whether to display an 'edit' button next to the last edited field
   # that links to github

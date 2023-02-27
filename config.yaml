@@ -1,5 +1,5 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
-baseURL: https://amethyst.bencuan.me
+baseURL: https://ellie-tguide.netlify.app
 
 # Book configuration
 disablePathToLower: true
@@ -11,7 +11,14 @@ markup:
     renderer:
       unsafe: true
   tableOfContents:
-    startLevel: 1
+    startLevel: 2
+
+# Files to be excluded from deploy
+ignoreFiles: [
+  "/content/my little forest/templates/*",
+  "/content/my little forest/0. 인생 지도/*"
+]
+
 
 # Multi-lingual mode config
 # There are different options to translate files
@@ -32,7 +39,7 @@ menu:
 
 params:
 
-  name: Ben Cuan
+  name: Ellie
   title: 🍇 My Little Forest
 
   # OPTIONAL: custom favicon location
@@ -72,13 +79,13 @@ params:
   enableMermaid: true
 
   # Link to your Github repo
-  GitHubLink: https://github.com/64bitpandas/amethyst
+  GitHubLink: https://github.com/ellie2022/amethyst
 
   # Search (WIP)
   search:
     enableSemanticSearch: false
-    operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-    operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+    operandApiKey: "1og9gmsi8fhes4htiv4mzslg8d9l9qki"
+    operandIndexId: "z7fsh7r2n3n7"
 
   # Site description and title
   description:
@@ -86,11 +93,11 @@ params:
 
   
   # Footer links
-  links:
-    - link_name: Website
-      link: https://bencuan.me
-    - link_name: Blog
-      link: https://blog.bencuan.me
+  #links:
+  #  - link_name: Website
+  #    link: https://bencuan.me
+  #  - link_name: Blog
+  #    link: https://blog.bencuan.me
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
@@ -112,7 +119,7 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/64bitpandas/amethyst
+  BookRepo: https://github.com/ellie2022/amethyst
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
